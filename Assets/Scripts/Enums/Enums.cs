@@ -1,0 +1,5 @@
+enum  BuildingTypes
+{
+    TypeA,
+    TypeB
+}
